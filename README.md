@@ -1,19 +1,13 @@
-# Python-American-Cents
+# Python-Factorial
 
 ## Programmed as a task from Tynker
 
 A program to find the factorial of a positive integer.
 
-For example if the user inputs 47:
+For example if the user inputs 4:
 
-*Enter the amount of change (in cents) you have : 47*
+*Enter a positive integer: 4*
 
-Then program will output the following:
+Then the program computes the product of 4 x 3 x 2 x 1.
 
-*quarters: 1*
-
-*dimes: 2*
-
-*nickels: 0*
-
-*pennies: 2*
+*The factorial of 4 is 24*
